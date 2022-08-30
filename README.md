@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/86778735/187534146-57d44c4f-e8d4-4e2e-8d8e-823835dc6433.png
+<img src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1060&t=st=1661890564~exp=1661891164~hmac=a366f48314e02343b4eefffefa956da2eded98216ec0f4b2a947d4a1847d8298
 " alt="banner" width="100%" height="100px">
 <h1 align="center">Hi 👋, I'm Yogesh Singh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
