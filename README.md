@@ -8,5 +8,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: on Instagram/https://www.instagram.com/yashyadav7000/?hl=en
 - 😄 Pronouns: Bhola
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Never satisfied
 
