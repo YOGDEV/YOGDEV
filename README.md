@@ -1,4 +1,4 @@
-<img src="![image](https://user-images.githubusercontent.com/86778735/187534146-57d44c4f-e8d4-4e2e-8d8e-823835dc6433.png)
+<img src="https://user-images.githubusercontent.com/86778735/187534146-57d44c4f-e8d4-4e2e-8d8e-823835dc6433.png
 " alt="banner" width="100%" height="100px">
 <h1 align="center">Hi 👋, I'm Yogesh Singh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
