@@ -1,4 +1,5 @@
-<img src="https://img.freepik.com/free-vector/green-digital-binary-numbers-glowing-background_1017-37271.jpg?w=1060&t=st=1661890069~exp=1661890669~hmac=6ced384d7cead8ad6cc496c34ddd7d7c5f66509df4e4579d1f7d572c43f02f65" alt="banner" width="100"height="100px">
+<img src="![image](https://user-images.githubusercontent.com/86778735/187534146-57d44c4f-e8d4-4e2e-8d8e-823835dc6433.png)
+" alt="banner" width="100%" height="100px">
 <h1 align="center">Hi 👋, I'm Yogesh Singh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1060&t=st=1661889761~exp=1661890361~hmac=1ea38555ecb894d1489d1db42ca9209b6cb5992ffd152584442d90633f45bf81" alt="logo" width="300px">
