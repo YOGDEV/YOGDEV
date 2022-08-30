@@ -10,6 +10,3 @@
 - 😄 Pronouns: Bhola
 - ⚡ Fun fact: Never satisfied
 
-
-!!!!!!!!!!!!!!!!!!!!!![image](https://user-images.githubusercontent.com/86778735/187527155-58d2d3f4-c803-4b92-af61-20f3cb83176b.png)
-
