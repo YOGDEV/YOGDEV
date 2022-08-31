@@ -4,6 +4,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1060&t=st=1661889761~exp=1661890361~hmac=1ea38555ecb894d1489d1db42ca9209b6cb5992ffd152584442d90633f45bf81" alt="logo" width="300px">
 
+<p id="demo"><p>
+ 
+<script>
+ let d=new date();
+document.getElementById("demo").innerHTML=d;
+ </script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogdev&label=Profile%20views&color=0e75b6&style=flat" alt="yogdev" /> </p>
 
