@@ -7,8 +7,8 @@
 <p id="demo"><p>
  
 <script>
- let d=new date();
-document.getElementById("demo").innerHTML=d;
+ const d=
+document.getElementById("demo").innerHTML="d";
  </script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogdev&label=Profile%20views&color=0e75b6&style=flat" alt="yogdev" /> </p>
