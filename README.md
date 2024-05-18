@@ -1,37 +1,76 @@
-<h1 align="center">Hi 👋, I'm Yogesh Singh Yadav</h1>
+<!--- Body Begins -->
+![MasterHead](Assets/1689321538097.png)
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shubhanshu-kaintura-499876283/">Shubhanshu</a> </h1>
+
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubhanshu-kaintura-499876283/">LinkedIn</a> - 
+  <a href="https://leetcode.com/u/shubhanshukaintura/">Leetcode</a> -
+  <a href="https://www.geeksforgeeks.org/user/shubhanshu_kaintura/">GeeksForGeeks</a> -
+  <a href="mailto:shubhanshukaintura2@gmail.com">shubhanshukaintura2@gmail.com</a></p>
+
+<img src="Assets/Robot Tutorial _ Interactive Events - Copy@7-1536x730 (1).png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**
+✨ Full Stack Web Developer | UI/UX Designer <br>
+⚡ My Recent Web Project ✨ [Website](https://mahaavirkantura.com/)<br>
+📫 How to reach me: [shubhanshukaintura2@gmail.com](mailto:shubhanshukaintura2@gmail.com) or visit [LinkedIn](https://www.linkedin.com/in/shubhanshu-kaintura-499876283/)<br>
+💬 Ask me about Web Designing & Development<br><br>
+
+<!--- Adding Tech Stack open Section -->
+<b>🛠Tech Stack</b><br>
+Languages: <img src="https://img.shields.io/badge/-C++-008000?logo=cplusplus">&nbsp;
+<img src="https://img.shields.io/badge/-Javascript-FFA500?logo=javascript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp;<br>
+Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
+<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss">&nbsp;
+<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge">&nbsp;
+<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;<br>
+Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br><br>
+
+<!--- 2nd Section on GitHub Analytics -->
+
+<b>⚙️GitHub Analytics</b><br>
+![Shubhanshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhanshukaintura&theme=github_dark)<br>
+![Shubhanshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhanshukaintura&theme=github_dark)
+![Shubhanshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhanshukaintura&theme=github_dark)<br>
+![Shubhanshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhanshukaintura&theme=github_dark)
+![Shubhanshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhanshukaintura&theme=github_dark&utcOffset=8)<br>
+![Shubhanshu's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhanshukaintura&theme=gotham&hide_border=false)<br/>
+     
+
+<!--- 3rd Section on Recent Projects -->
+<b>📚Recent Project/Activity</b><br>
+✨ [Web Projects - React, Javscript](https://github.com/shubhanshukaintura/my-web-projects)<br>
+
+![Shubhanshu's 🔝Top Contributed Repo ](https://github-contributor-stats.vercel.app/api?username=shubhanshukaintura&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1060&t=st=1661889761~exp=1661890361~hmac=1ea38555ecb894d1489d1db42ca9209b6cb5992ffd152584442d90633f45bf81" alt="logo" width="300px">
+<!--- Footer Starts - Adding the Social Media Status count-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogdev&label=Profile%20views&color=0e75b6&style=flat" alt="yogdev" /> </p>
+ <p align="left">  
+   <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=shuhanshukaintura&label=Profile%20Views&color=4&icon=0&pretty=true" />
+  </a>
+   <a href="https://www.linkedin.com/in/shubhanshu-kaintura-499876283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
-- 🔭 I’m currently working on **my courses**
-
-- 🌱 I’m currently learning **java script**
-
-- 👯 I’m looking to collaborate on **java script**
-
-- 📫 How to reach me **Instagram/https://www.instagram.com/yashyadav7000/?hl=en**
-
-- ⚡ Fun fact **never satisfied**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yogesh singh yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogesh singh yadav" height="30" width="40" /></a>
-<a href="https://fb.com/yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogdev" height="30" width="40" /></a>
-</p>
+<div align="center">
 
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+#### Show some ❤️ by starring some of the repositories!
+</div>
 
-<!--  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogdev&show_icons=true&locale=en&layout=compact" alt="yogdev" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogdev&show_icons=true&locale=en" alt="yogdev" /></p>
- <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogdev&" alt="yogdev" /></p>
- -->
-
+<!--- Footer End -->
+<!--- Body End -->
